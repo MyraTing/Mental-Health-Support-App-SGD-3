@@ -5,7 +5,7 @@ We selected Good Health and Well-Being (SDG 3) because it underlines the critica
 
 Myra Ting ZiQi
 1. GitHub evidence
-2. Writing testing & deployment strategy section for report
+2. Writing testing, prototype development, deployment strategy section for report
 3. Slides
 4. Trello & agile
 
