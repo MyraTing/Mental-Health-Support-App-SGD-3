@@ -14,12 +14,15 @@ A number of tasks were given to the users to perform using the developed prototy
 6. To view the emergency hotline contacts provided by the system
 
 
+
 **Testing Observations**
 
 During the user testing, the users were able to perform the tasks without any major issues. The users were also able to navigate the pages of the system without any difficulties. The users appreciated the simple design of the dashboard, as they are able to view the hours of study and the stress level. The users also appreciated the feature of sending notifications and relaxation tips, as these features are very useful for maintaining a healthy lifestyle.
 
 
+
 **Improvements Identified**
+
 During the user testing process, a number of improvements were identified for the developed prototype system. These are as follows:
 1. To improve the layout of the dashboard for better information presentation
 2. To make the input of the stress level easier for the users
