@@ -1,7 +1,7 @@
-**Sprint 1 – Design & Early Prototype (Week 2)**
+## Sprint 1 – Design & Early Prototype (Week 2)
 During Sprint 1, the team focused on analysis and system design. The main objective was to define the system structure and prepare an early prototype.
 
-Key tasks completed in this sprint included:
+_Key tasks completed in this sprint included:_
 1. Identifying functional and non-functional requirements
 2. Creating the Use Case Diagram to show system interactions
 3. Designing the Class Diagram and system architecture
@@ -11,10 +11,10 @@ Key tasks completed in this sprint included:
 
 At the end of Sprint 1, the team reviewed the progress and ensured the system design was clear before moving to implementation.
 
-**Sprint 2 – Build & Test (Week 3)**
+## Sprint 2 – Build & Test (Week 3)
 During Sprint 2, the team focused on implementation and testing of the prototype.
 
-Key tasks completed in this sprint included:
+_Key tasks completed in this sprint included:_
 1. Implementing study hours tracking feature
 2. Implementing stress level tracking feature
 3. Developing notification and reminder system
@@ -24,10 +24,10 @@ Key tasks completed in this sprint included:
 
 The feedback collected during this sprint helped the team improve the prototype and prepare the final report.
 
-**Finalisation Phase (Week 4)**
+## Finalisation Phase (Week 4)
 During the final phase, the team focused on documentation and project completion.
 
-Key tasks included:
+_Key tasks included:_
 1. Writing report sections such as requirements, design, and testing
 2. Documenting the prototype development
 3. Compiling the final report
